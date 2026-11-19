@@ -46,10 +46,10 @@ patches:
 images:
 - name: lsxol/broadcaster
   newName: lsxol/broadcaster
-  newTag: 494a9d93eaafa5e66aef53ca81bc320f8896b23b
+  newTag: 1fd8c8feec2cdc63556494d3ed2ff62cfb0eacc8
 - name: lsxol/todo-app
   newName: lsxol/todo-app
-  newTag: 494a9d93eaafa5e66aef53ca81bc320f8896b23b
+  newTag: 1fd8c8feec2cdc63556494d3ed2ff62cfb0eacc8
 - name: lsxol/todo-backend-app
   newName: lsxol/todo-backend-app
-  newTag: 494a9d93eaafa5e66aef53ca81bc320f8896b23b
+  newTag: 1fd8c8feec2cdc63556494d3ed2ff62cfb0eacc8
